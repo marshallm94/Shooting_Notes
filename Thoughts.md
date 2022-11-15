@@ -31,7 +31,6 @@ Further, the above assumes:
 **Takeaway:**
 Precision is relative to many systems interacting together.
 
-
 ## ( 2022-11-13 ): Making Adjustments to Different Distances
 
 For the purposes of understanding, you could think about stratifying "adjusting to different distances" into 2
@@ -41,6 +40,7 @@ categories:
 
 Situation 1:
 * Ballistic data is how you adjust to different distances.
+* Check [this out](https://www.hornady.com/team-hornady/ballistic-calculators/?autopopulated_title=6.5+Creedmoor+140+gr+ELD%C2%AE+Match&weight=140&humidity=50&altitude=0&temperature=59&sightheight=1.5&shootingangle=0&pressure=29.92&maxrange=500&latitude=0&axialforceformfactore=1&azimuth=0&barreltwist=7&borediameter=&coriolis=0&windangle=90&windspeed=10&zerorange=100&zerorangeflag=1&velocity=2710&ballisticCoefficient=.646&ballisticCoefficientType=%28G1%29#!/standard)
 
 Situation 2:
 * Basically just take the shot, and then use your reticle to measure error (as mentioned below)
